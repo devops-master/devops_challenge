@@ -3,7 +3,7 @@
 Please use the provided pom.xml and create a Python script that
 customizes the project pom version to match this pattern:
 ```
-<version>ci_{GitHub Org Name Here}_{Branch Name Here}-SNAPSHOT</version>
+<version>ci_{GitHub Org Name Here}_{Branch Name Here -SNAPSHOT</version>
 ```
 
 The script you write will take three parameters: the path of the pom
